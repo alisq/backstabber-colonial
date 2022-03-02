@@ -3,13 +3,15 @@
 
 Roadmap:
 
-—get all the territories and borders sorted out
-—add labels
-—add bridges and tracks
-—export to SVG
-—add IDs and CLASSes for every group
-—import to web
-—add arrow interactivity
-—create boundary rules
-—create unit rules
-—create confrontation rules
+<ul>
+<li>get all the territories and borders sorted out</li>
+<li>add labels</li>
+<li>add bridges and tracks</li>
+<li>export to SVG</li>
+<li>add IDs and CLASSes for every group</li>
+<li>import to web</li>
+<li>add arrow interactivity</li>
+<li>create boundary rules</li>
+<li>create unit rules</li>
+<li>create confrontation rules</li>
+</ul>
